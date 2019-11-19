@@ -1,4 +1,5 @@
 # FastCampus
 
 - Data Analysis A to Z
-- Sub Code about Lecture
+- Sub-code about Lecture
+- Regression, Decision Tree, Bagging, Boosting, Shap-Value
